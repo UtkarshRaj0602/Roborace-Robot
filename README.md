@@ -3,7 +3,6 @@ Roborace is a competition with autonomously/radio controlled/wired driven, elect
 Me and my team were the 3rd runner up at IIT Ropar in this event.  
 
 
-
 Roborace is a competition with autonomously/radio controlled/wired driven, electrically powered vehicles and bot cars.
 
 Roborace as a whole is a competition where people can showcase their technical skills. RoboRace is a competition where couple of Robots compete with each other in their speed and accurate control. 
@@ -29,6 +28,8 @@ Learning Outcomes:
 2. Learned about RF tranismission. 
 3. Dived deep into DC motors and its manufacturing and functions.
 
+
+My role was to design the chasis and body of the bot and also to do the electronics of the bot. 
 
 
 Youtube video link:
