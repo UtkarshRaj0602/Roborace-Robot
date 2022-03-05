@@ -35,7 +35,7 @@ Youtube video link:
 
 https://youtu.be/FRMjMyS93Kg
 
-(This video is uploaded to my friends channel.)
+(This video is uploaded on my friends youtube channel.)
 
 
 
